@@ -1,4 +1,4 @@
-# Ecomerce-Supabase
+# Ecommerce Supabase
 
 Backend de e-commerce construído sobre Supabase (PostgreSQL), com foco em modelagem relacional, segurança em nível de linha e automações via Edge Functions.
 
